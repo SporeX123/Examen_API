@@ -16,6 +16,9 @@ env/
 # Postman local (workspace metadata)
 .postman/
 
+# Documentacion
+Documentacion_API_Biblioteca.pdf
+
 # IDE
 .vscode/
 .idea/
